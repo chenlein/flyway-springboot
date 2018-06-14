@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flyway-springboot.iml" filepath="$PROJECT_DIR$/.idea/modules/flyway-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flyway-springboot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/flyway-springboot_main.iml" group="flyway-springboot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flyway-springboot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/flyway-springboot_test.iml" group="flyway-springboot" />
+    </modules>
+  </component>
+</project>
