@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.chenlei.dao.UserDao">
+    <insert id="create" parameterType="User">
+        insert into t_user (id, name, address, email) values (#{id}, #{name}, #{address}, #{email})
+    </insert>
+
+    <select id="retrieve" parameterType="Long" resultType="User">
+        select id, name, address, email from t_user where id = #{id}
+    </select>
+
+    <update id="update" parameterType="User">
+        update t_user set name = #{name}, address = #{address}, email = #{email} where id = #{id}
+    </update>
+
+    <delete id="delete" parameterType="Long">
+        delete from t_user where id = #{id}
+    </delete>
+</mapper>
