@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flyway-springboot.iml" filepath="$PROJECT_DIR$/.idea/modules/flyway-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flyway-springboot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/flyway-springboot_main.iml" group="flyway-springboot" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flyway-springboot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/flyway-springboot_test.iml" group="flyway-springboot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-springboot.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-springboot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-springboot_main.iml" group="mybatis-springboot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-springboot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-springboot_test.iml" group="mybatis-springboot" />
     </modules>
   </component>
 </project>

@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="flyway-springboot_main" target="1.8" />
       <module name="flyway-springboot_test" target="1.8" />
+      <module name="mybatis-springboot_main" target="1.8" />
+      <module name="mybatis-springboot_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
